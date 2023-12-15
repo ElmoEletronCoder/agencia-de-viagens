@@ -1,0 +1,2 @@
+Projeto de Site para Agência de Viagens - 
+Busco criar um site para uma agência de viagens, sendo iniciante em programação. Em sete meses de curso, enfrentei desafios de compreensão. A proposta inclui implementar um menu horizontal e tornar o site responsivo com Bootstrap, desenvolvendo a modelagem de dados e a estrutura do sistema em Java. Esta iniciativa é uma oportunidade prática de aprendizado. Mesmo com limitações, encaro o desafio como essencial em minha jornada de desenvolvimento.
