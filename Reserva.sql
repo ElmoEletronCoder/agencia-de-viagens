@@ -1,4 +1,4 @@
--- Cria a tabela Reserva
+
 CREATE TABLE Reserva (
     id INT AUTO_INCREMENT PRIMARY KEY,
     cliente_id INT,
